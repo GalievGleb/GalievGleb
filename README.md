@@ -12,40 +12,26 @@
 
 ### Hi there 👋
 
-I'm Grigory, a fullstack developer. I have a lot of personal projects as well as an experience in commercial development.
+I'm Gleb, a Authomation Quality Assurance. I have a lot of personal projects as well as an experience in commercial development.
 
 🚀 Besides I love computer games ;)
 
 
 ### Field of activity
 
-#### Fullstack development
-- Backend: Python (Django + DRF, FastAPI), TypeScript (NestJS)
-- Frontend: TypeScript (Svelte, React, Vue 3)
+#### Authomation Quality Assurance
+- Authomation: Python (Selenium, SeleniumBase, Playwright, Pytest)
 
 #### Programming languages
-- JavaScript/TypeScript
-- Java
-- Kotlin
 - Python
 
 #### Secondary skills
 
 - Work with hardware
 - Databases (SQLite, MySQL, Postgres)
-- ORM (TypeOrm, Ktorm)
 - Linux
-- Event stores (Kafka)
 - Devops (Docker, deploying)
-- CI/CD
-- JWT authentication
-- Frontend 3D (ThreeJS, React Three Fiber)
-- Electron
 
 ### Projects information and contacts
 
-I develop complex SPA applications, standard websites with backend, and desktop applications.
-
-✨I and my team also have a medieval magic game server in Minecraft :O where we have a complex architecture using many technologies.
-
-**You can find my contacts and detail information about my projects on [my website](https://osx11.github.io)**
+I built automation projects for websites, desktop applications on js + ts. I also used the fairly new playwright framework, and screenshot tests.
