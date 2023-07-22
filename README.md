@@ -1,16 +1,51 @@
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi!%20I'm%20Gleb&font=Fira%20Code&center=true&width=440&height=45&color=27ae60&vCenter=true&duration=1&repeat=false&pause=1000&size=22" /></a>
+</p>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Authomation%20Quality%20Assurance;3%2B%20years%20of%20experience;Always%20learning&font=Fira%20Code&center=true&width=440&height=45&color=27ae60&vCenter=true&duration=2500&pause=1000&size=22" /></a>
+</p>
+
 ### Hi there 👋
 
-<!--
-**GalievGleb/GalievGleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Grigory, a fullstack developer. I have a lot of personal projects as well as an experience in commercial development.
 
-Here are some ideas to get you started:
+🚀 Besides I love computer games ;)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Field of activity
+
+#### Fullstack development
+- Backend: Python (Django + DRF, FastAPI), TypeScript (NestJS)
+- Frontend: TypeScript (Svelte, React, Vue 3)
+
+#### Programming languages
+- JavaScript/TypeScript
+- Java
+- Kotlin
+- Python
+
+#### Secondary skills
+
+- Work with hardware
+- Databases (SQLite, MySQL, Postgres)
+- ORM (TypeOrm, Ktorm)
+- Linux
+- Event stores (Kafka)
+- Devops (Docker, deploying)
+- CI/CD
+- JWT authentication
+- Frontend 3D (ThreeJS, React Three Fiber)
+- Electron
+
+### Projects information and contacts
+
+I develop complex SPA applications, standard websites with backend, and desktop applications.
+
+✨I and my team also have a medieval magic game server in Minecraft :O where we have a complex architecture using many technologies.
+
+**You can find my contacts and detail information about my projects on [my website](https://osx11.github.io)**
