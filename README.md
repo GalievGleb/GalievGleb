@@ -14,9 +14,6 @@
 
 I'm Gleb, a Authomation Quality Assurance. I have a lot of personal projects as well as an experience in commercial development.
 
-🚀 Besides I love computer games ;)
-
-
 ### Field of activity
 
 #### Authomation Quality Assurance
