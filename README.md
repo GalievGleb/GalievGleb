@@ -29,6 +29,6 @@ I'm Gleb, a Authomation Quality Assurance. I have a lot of personal projects as 
 - Linux
 - Devops (Docker, deploying)
 
-### Projects information and contacts
+### Projects information
 
 I built automation projects for websites, desktop applications on js + ts. I also used the fairly new playwright framework, and screenshot tests.
