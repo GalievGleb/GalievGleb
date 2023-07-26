@@ -25,9 +25,8 @@ I'm Gleb, a Authomation Quality Assurance. I have a lot of personal projects as 
 #### Secondary skills
 
 - Work with hardware
-- Databases (SQLite, MySQL, Postgres)
+- Databases (Postgres)
 - Linux
-- Devops (Docker, deploying)
 
 ### Projects information
 
