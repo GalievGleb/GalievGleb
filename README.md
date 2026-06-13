@@ -42,6 +42,11 @@ I work with Python-based automation for web applications, internal systems, engi
 * DevTools
 * Kibana
 * Work with hardware and simulators
+## Contacts
+
+* Telegram: [@GlebAQA](https://t.me/GlebAQA)
+* Email: [galievgleb99@gmail.com](mailto:galievgleb99@gmail.com)
+
 
 ---
 
